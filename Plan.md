@@ -1,4 +1,4 @@
-Урок 1
+##Урок 1
 Создаем первый сайт
 
 - Создаем файл `index.html`
@@ -40,7 +40,10 @@
 ```
 
 ```
-<img src="https://via.placeholder.com/150 " alt="Пример изображения">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/250px-Ambersweet_oranges.jpg " alt="Пример изображения">
 
 ```
 Подводим итоги
+
+
+
